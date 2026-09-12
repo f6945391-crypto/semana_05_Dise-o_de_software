@@ -1,0 +1,14 @@
+body {
+    background-color: #f8f9fa;
+}
+
+.hero {
+    min-height: 500px;
+    display: flex;
+    align-items: center;
+    background-color: #e9ecef;
+}
+
+.table {
+    background-color: white;
+}
